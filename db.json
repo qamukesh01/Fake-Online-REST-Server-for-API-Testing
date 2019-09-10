@@ -11,8 +11,8 @@
     {
       "id": 3,
       "title": "Post 3"
-    }
-        {
+    },
+    {
       "id": 4,
       "title": "Post 4"
     },
@@ -35,8 +35,8 @@
       "id": 2,
       "body": "some comment",
       "postId": 1
-    }
-        {
+    },
+    {
       "id": 3,
       "body": "some comment",
       "postId": 1
@@ -47,13 +47,15 @@
       "postId": 1
     }
   ],
-  "profile": {
+  "profile": [
+  {
     "name": "Akshay"
-  }
-   {
+  },
+  {
     "name": "Mukesh"
-  }
- {
+  },
+  {
     "name": "Max"
   }
+  ]
 }
